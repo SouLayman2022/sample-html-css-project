@@ -1,0 +1,4 @@
+
+git remote add origin https://github.com/SouLayman2022/sample-html-css-project.git
+git branch -M main
+git push -u origin main
